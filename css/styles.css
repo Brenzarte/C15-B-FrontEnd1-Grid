@@ -261,7 +261,6 @@ footer p {
     }
 
     .profile-data>p {
-        font-size: 0.7rem;
         font-weight: 500;
     }
 
@@ -286,7 +285,7 @@ footer p {
     .cta {
         align-self: center;
         justify-self: start;
-        font-size: 0.6rem;
+        font-size: 0.71rem;
         font-weight: 500;
         color: var(--color-cta);
     }
